@@ -1,2 +1,2 @@
-# AdvancedTradingSystem
-Private Trading Software with a variety of flexible settings for profitable trading.
+# Advanced Trading System
+Private Trading Software with flexible settings for profitable trading.
